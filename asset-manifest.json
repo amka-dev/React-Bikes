@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Bikes/static/css/main.4e8a2184.css",
+    "main.js": "/React-Bikes/static/js/main.da5cc63b.js",
+    "static/media/logo.png": "/React-Bikes/static/media/logo.110f0ccfcb83364a50d3.png",
+    "index.html": "/React-Bikes/index.html",
+    "main.4e8a2184.css.map": "/React-Bikes/static/css/main.4e8a2184.css.map",
+    "main.da5cc63b.js.map": "/React-Bikes/static/js/main.da5cc63b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e8a2184.css",
+    "static/js/main.da5cc63b.js"
+  ]
+}
