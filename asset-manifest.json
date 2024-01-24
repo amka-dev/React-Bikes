@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Bikes/static/css/main.79286e56.css",
-    "main.js": "/React-Bikes/static/js/main.156cf682.js",
+    "main.js": "/React-Bikes/static/js/main.c018d461.js",
     "static/media/logo.png": "/React-Bikes/static/media/logo.110f0ccfcb83364a50d3.png",
     "index.html": "/React-Bikes/index.html",
     "main.79286e56.css.map": "/React-Bikes/static/css/main.79286e56.css.map",
-    "main.156cf682.js.map": "/React-Bikes/static/js/main.156cf682.js.map"
+    "main.c018d461.js.map": "/React-Bikes/static/js/main.c018d461.js.map"
   },
   "entrypoints": [
     "static/css/main.79286e56.css",
-    "static/js/main.156cf682.js"
+    "static/js/main.c018d461.js"
   ]
 }
