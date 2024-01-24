@@ -1,0 +1,52 @@
+[
+	{
+		"id": 0,
+		"imageUrl": "https://i.postimg.cc/dtdHrdGY/rocshock-fork.png",
+		"title": "suspension fork 'rocshock'",
+		"types": [27.5, 29],
+		"colors": ["red", "black", "white"],
+		"price": 2600,
+		"category": 0,
+		"rating": 7
+	},
+	{
+		"id": 1,
+		"imageUrl": "https://i.postimg.cc/7Pjt5XG9/fox-fork.png",
+		"title": "suspension fork 'fox'",
+		"types": [27.5, 29],
+		"colors": ["red", "black", "white"],
+		"price": 1975,
+		"category": 0,
+		"rating": 5
+	},
+	{
+		"id": 2,
+		"imageUrl": "https://i.postimg.cc/8k7nkx5s/dhx2-fox-susp.png",
+		"title": "DH X2 'fox' rear suspension",
+		"types": ["Spring"],
+		"colors": ["black", "white"],
+		"price": 1130,
+		"category": 1,
+		"rating": 4
+	},
+	{
+		"id": 3,
+		"imageUrl": "https://i.postimg.cc/pLH0ZTBn/dnm-rear-susp.png",
+		"title": "DNM AO42RC rear suspension",
+		"types": ["air"],
+		"colors": ["black", "orange"],
+		"price": 200,
+		"category": 2,
+		"rating": 2
+	},
+	{
+		"id": 4,
+		"imageUrl": "https://i.postimg.cc/DwPxYTCp/giant-pedals.png",
+		"title": "Giant pedals",
+		"types": [19],
+		"colors": ["blue", "white", "black", "red"],
+		"price": 50,
+		"category": 3,
+		"rating": 8
+	}
+]
